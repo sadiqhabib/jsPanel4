@@ -1,0 +1,36 @@
+{
+  "name": "jspanel4",
+  "description": "A javascript tool to create highly configurable multifunctional floating panels for use in backend solutions and other web applications. Also usable as modal, tooltip, hint or contextmenu. With built in support for bootstrap (3 & 4), right-to-left text direction and a lot more ...",
+  "main": ["dist/jspanel.js", "dist/jspanel.css"],
+  "authors": [
+    "Stefan Straesser <info@jspanel.de> (http://jspanel.de/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "jsPanel",
+    "panel",
+    "floating",
+    "panel",
+    "ui",
+    "layout",
+    "popup",
+    "widget",
+    "window",
+    "modal",
+    "tooltip",
+    "hint",
+    "alert",
+    "notifier",
+    "contextmenu",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/sadiqhabib/jsPanel4",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
